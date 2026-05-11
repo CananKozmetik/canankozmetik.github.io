@@ -29,7 +29,8 @@ const products = [
     image: "images/CJ_Meyve.jpg",
     desc: "Meyve Kokulu Şampuan",
     category: "sampuan",
-    link: "https://www.instagram.com/canankozmetik.dorsy/
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  }
 
 ];
 
@@ -72,7 +73,7 @@ function showProducts(list) {
 
         <p>${product.desc}</p>
 
-        <a href="${product.link}">
+        <a href="${product.link}" target="_blank">
 
           Satın Al
 
