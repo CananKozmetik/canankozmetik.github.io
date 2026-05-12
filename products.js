@@ -19,24 +19,6 @@ const products = [
   },
 
   {
-    name: "Erkek Şampuan CrazyJhon 2In1",
-    image: "images/CJ_Man.jpg",
-    desc: "Erkek Şampuanı",
-    price: 150,
-    category: "sampuan",
-    link: "https://www.instagram.com/canankozmetik.dorsy/"
-  },
-
-  {
-    name: "Meyve Aromalı Şampuan CrazyJhon 2In1",
-    image: "images/CJ_Meyve.jpg",
-    desc: "Meyve Kokulu Şampuan",
-    price: 150,
-    category: "sampuan",
-    link: "https://www.instagram.com/canankozmetik.dorsy/"
-  },
-
-  {
     name: "Arındırıcı Soyulabilir Siyah Maske - JEUNESSE",
     image: "images/JEUN_Armask.png",
     desc: "Ciltteki kir ve yağı temizler. Ölü cilt hücrelerinin uzaklaştırılmasına yardımcı olur.",
@@ -127,15 +109,6 @@ const products = [
 },
 
 {
-  name: "All Life Çilek Kremi",
-  image: "images/alllife_cilek_kremi.jpg",
-  desc: "Yumuşak ve ferah his bırakan bakım kremi.",
-  price: 50,
-  category: "kremler",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
   name: "At Kestanesi Balsamı",
   image: "images/at_kestanesi_balsami.jpg",
   desc: "Rahatlatıcı bakım balsamı.",
@@ -154,8 +127,18 @@ const products = [
 },
 
 {
+  name: "C.J Şampuan & Duş Jeli Çam",
+  image: "images/cj_sampuan_cam.jpg",
+  desc: "Çam esintili şampuan ve duş jeli.",
+  price: 150,
+  category: "sampuan",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+
+{
   name: "C.J Şampuan & Duş Jeli Erkek",
-  image: "images/cj_sampuan_erkek.jpg",
+  image: "images/CJ_Man.jpg",
   desc: "Erkeklere özel bakım şampuanı.",
   price: 150,
   category: "sampuan",
@@ -164,7 +147,7 @@ const products = [
 
 {
   name: "C.J Meyve Özlü Şampuan",
-  image: "images/cj_meyve_ozlu.jpg",
+  image: "images/CJ_Meyve.jpg",
   desc: "Meyve aromalı bakım şampuanı.",
   price: 150,
   category: "sampuan",
