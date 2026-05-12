@@ -1,9 +1,23 @@
+/* GLOBAL ZAM SİSTEMİ */
+
+const globalPriceMultiplier = 1.00;
+
+/*
+1.00 = normal fiyat
+1.05 = %5 zam
+1.10 = %10 zam
+0.90 = %10 indirim
+*/
+
+/* ÜRÜNLER */
+
 const products = [
 
   {
     name: "Bambu Çubuklu Oda Kokusu",
     image: "images/Kokular.jpg",
     desc: "Kalıcı ve ferah ortam kokuları",
+    price: 199,
     category: "oda-kokusu",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
@@ -12,6 +26,7 @@ const products = [
     name: "Dalbeyoğlu Esansiyel Yağlar",
     image: "images/Esanslar.jpg",
     desc: "Yoğun ve doğal esans çeşitleri",
+    price: 149,
     category: "esansiyel",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
@@ -20,6 +35,7 @@ const products = [
     name: "CrazyJhon Şampuan Erkek 2In1",
     image: "images/CJ_Man.jpg",
     desc: "Erkek Şampuanı",
+    price: 249,
     category: "sampuan",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
@@ -28,6 +44,7 @@ const products = [
     name: "CrazyJhon Şampuan Meyve Karışımı 2In1",
     image: "images/CJ_Meyve.jpg",
     desc: "Meyve Kokulu Şampuan",
+    price: 249,
     category: "sampuan",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   }
@@ -63,6 +80,14 @@ function showProducts(list) {
 
   list.forEach(product => {
 
+    /* FİNAL FİYAT */
+
+    const finalPrice =
+    Math.round(
+      product.price *
+      globalPriceMultiplier
+    );
+
     container.innerHTML += `
 
       <div class="product">
@@ -72,6 +97,12 @@ function showProducts(list) {
         <h3>${product.name}</h3>
 
         <p>${product.desc}</p>
+
+        <div class="price">
+
+          ${finalPrice}₺
+
+        </div>
 
         <a href="${product.link}" target="_blank">
 
