@@ -155,7 +155,7 @@ const products = [
 },
 
 {
-  name: "Dalbeyoğlu Aktif Karbon Sabunu",
+  name: "Aktif Karbon Sabunu - Dalbeyoğlu",
   image: "images/dalbeyoglu_aktif_karbon.jpg",
   desc: "Cildi arındırmaya yardımcı sabun.",
   price: 115,
@@ -164,7 +164,7 @@ const products = [
 },
 
 {
-  name: "Dalbeyoğlu Kükürtlü Sabun",
+  name: "Kükürtlü Sabun - Dalbeyoğlu",
   image: "images/dalbeyoglu_kukurtlu.jpg",
   desc: "Temizleyici bakım sabunu.",
   price: 115,
@@ -173,7 +173,7 @@ const products = [
 },
 
 {
-  name: "Dalbeyoğlu Ayak Bakım Kremi",
+  name: "Ayak Bakım Kremi - Dalbeyoğlu",
   image: "images/dalbeyoglu_ayak_bakim.jpg",
   desc: "Ayak bakımına yardımcı krem.",
   price: 190,
@@ -191,81 +191,45 @@ const products = [
 },
 
 {
-  name: "JEUNESSE Altın Maske",
-  image: "images/jeunesse_altin_maske.jpg",
-  desc: "Cilde canlı görünüm kazandıran maske.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "JEUNESSE Gümüş Maske",
-  image: "images/jeunesse_gumus_maske.jpg",
-  desc: "Cildi arındırmaya yardımcı bakım maskesi.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "JEUNESSE Siyah Maske",
-  image: "images/jeunesse_siyah_maske.jpg",
-  desc: "Gözenek temizliğine yardımcı maske.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "JEUNESSE Kahve Peeling",
-  image: "images/jeunesse_kahve_peeling.jpg",
-  desc: "Cildi canlandıran peeling etkisi.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "JEUNESSE Kolajen Maske",
-  image: "images/jeunesse_kolajen.jpg",
-  desc: "Cilde esneklik kazandırmaya yardımcı maske.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
   name: "LUZY ONE Erkek Parfüm Efendi",
   image: "images/luzy_efendi.jpg",
-  desc: "Kalıcı erkek parfümü.",
+  desc: "Kalıcı baharatlı erkek parfümü.",
   price: 450,
   category: "parfum",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
 },
 
 {
-  name: "LUZY ONE Erkek Parfüm Legacy",
-  image: "images/luzy_legacy.jpg",
-  desc: "Yoğun ve etkileyici erkek parfümü.",
+  name: "LUZY ONE Erkek Parfüm Pasha",
+  image: "images/luzy_pasha.jpg",
+  desc: "Yoğun ve etkileyici çiçeksi erkek parfümü.",
   price: 450,
   category: "parfum",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
 },
 
 {
-  name: "LUZY ONE Kadın Parfüm Bella",
-  image: "images/luzy_bella.jpg",
-  desc: "Zarif kadın parfümü.",
+  name: "LUZY ONE Erkek Parfüm Secret Palace",
+  image: "images/luzy_secret_palace.jpg",
+  desc: "Baharatlı erkek parfümü.",
   price: 450,
   category: "parfum",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
 },
 
 {
-  name: "LUZY ONE Kadın Parfüm Flora",
-  image: "images/luzy_flora.jpg",
-  desc: "Çiçeksi notalara sahip kadın parfümü.",
+  name: "LUZY ONE Erkek Parfüm Vaquur",
+  image: "images/luzy_vaquur.jpg",
+  desc: "Aromatik notalara sahip erkek parfümü.",
+  price: 450,
+  category: "parfum",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "LUZY ONE Erkek Parfüm Just 61",
+  image: "images/luzy_just61.jpg",
+  desc: "Aromatik notalara sahip erkek parfümü.",
   price: 450,
   category: "parfum",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
