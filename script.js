@@ -121,7 +121,15 @@ const products = [
     category: "maske",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
-
+  
+  {
+    name: "Işıltılı Soyulabilir Bal Maskesi - JEUNESSE ",
+    image: "images/JEUN_Honeymask.jpg",
+    desc: "  Bal özü ve pantenol sayesinde cildi kirden ve fazla yağdan arındıran, soyulabilir ışıltılı bal maskesi, cilde temiz, pürüzsüzve parlak bir görünüm kazandırır.",
+    price: 150,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
   
 
 ];
