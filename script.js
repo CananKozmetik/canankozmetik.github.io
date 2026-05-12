@@ -17,7 +17,7 @@ const products = [
     name: "Bambu Çubuklu Oda Kokusu",
     image: "images/Kokular.jpg",
     desc: "Kalıcı ve ferah ortam kokuları",
-    price: 199,
+    price: 190,
     category: "oda-kokusu",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
@@ -26,7 +26,7 @@ const products = [
     name: "Dalbeyoğlu Esansiyel Yağlar",
     image: "images/Esanslar.jpg",
     desc: "Yoğun ve doğal esans çeşitleri",
-    price: 149,
+    price: 90,
     category: "esansiyel",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
@@ -35,7 +35,7 @@ const products = [
     name: "CrazyJhon Şampuan Erkek 2In1",
     image: "images/CJ_Man.jpg",
     desc: "Erkek Şampuanı",
-    price: 249,
+    price: 150,
     category: "sampuan",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
@@ -44,7 +44,7 @@ const products = [
     name: "CrazyJhon Şampuan Meyve Karışımı 2In1",
     image: "images/CJ_Meyve.jpg",
     desc: "Meyve Kokulu Şampuan",
-    price: 249,
+    price: 150,
     category: "sampuan",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   }
