@@ -53,46 +53,75 @@ const products = [
     name: "Arındırıcı Soyulabilir Siyah Maske - JEUNESSE ",
     image: "images/JEUN_Armask.png",
     desc: " Ciltteki kir ve yağı temizler. Ölü cilt Hücrelerinin uzaklaştırılmasına yardımcı olur",
-    price: 0,
+    price: 150,
     category: "maske",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
   
   {
-    name: "Arındırıcı Soyulabilir Gümüş Maske",
+    name: "Arındırıcı Soyulabilir Gümüş Maske - JEUNESSE ",
     image: "images/JEUN_Argumus.png",
     desc: "Cilt tonunu eşitlemeye ve aydınlatmaya yardımcı olur. Ölü cilt hücrelerinin giderilmesine de katkıda bulunur",
-    price: 0,
+    price: 150,
     category: "maske",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
   
   {
-    name: "Kırışıklık Karşıtı Soyulabilir Altın Maske",
+    name: "Kırışıklık Karşıtı Soyulabilir Altın Maske - JEUNESSE ",
     image: "images/JEUN_AltnMaske.png",
     desc: "Cildinize esneklik, yumuşaklık ve sıkılık kazandırır.",
-    price: 00,
+    price: 150,
     category: "maske",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
   
   {
-    name: "Simli Soyulabilir Kolajen Maskesi",
+    name: "Simli Soyulabilir Kolajen Maskesi - JEUNESSE ",
     image: "images/JEUN_Simlikolajen.png",
     desc: "Cildinize esneklik, yumuşaklık ve sıkılık kazandırır",
-    price: 00,
+    price: 150,
     category: "maske",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
   
   {
-    name: "Derinlemesine Peeling Etkili Kahve Peelingi ",
+    name: "Derinlemesine Peeling Etkili Kahve Peelingi - JEUNESSE ",
     image: "images/JEUN_Kahve.png",
-    desc: "Kahve özlü peeling, içeriğindeki kaolin ve öğütülmüş kahve çekirdeklerinden elde edilen doğal peeling bileşenleri sayesinde gözenekleri temizler ve arındırır. İçerdiği kafein cildi canlandırır ve pürüzsüz bir görünüm kazandırmaya yardımcı olur.",
-    price: 00,
+    desc: "Gözenekleri temizler ve arındırır. İçerdiği kafein cildi canlandırır ve pürüzsüz bir görünüm kazandırmaya yardımcı olur.",
+    price: 150,
     category: "maske",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
   },
+    
+  {
+    name: "Detoks Etkili Kil Maskesi - JEUNESSE ",
+    image: "images/JEUN_DetoxMaske.png",
+    desc: "  Kil ve kremsi dokusu sayesinde cilttekikiri ve pürüzleri temizler ve cildi kurutmadan detoksifikasyon sağlar.",
+    price: 150,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
+    
+  {
+    name: "Pembe Kar Temizleyici Peeling Jeli - JEUNESSE ",
+    image: "images/JEUN_Pembekar.png",
+    desc: " Pembe kar temizleme peeling jeli, içeriğindeki bitki kompleksi sayesinde tıkalı gözenekleri temizler ve cildi tazeler. Ölü cilt hücrelerinin uzaklaştırılmasına yardımcı olur.",
+    price: 150,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
+  
+     
+  {
+    name: "3'ü 1 arada Maske (Yüz Temizleyici + Peeling + Maske) - JEUNESSE ",
+    image: "images/JEUN_3in1.png",
+    desc: "  Cildi yoğun bir şekilde temizleyerek yağlardan arındırır, peeling etkisi gösterir, gözenekleri temizler ve arındırır",
+    price: 150,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
+
   
 
 ];
