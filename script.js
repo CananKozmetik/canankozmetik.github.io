@@ -32,7 +32,7 @@ const products = [
   },
 
   {
-    name: "CrazyJhon Şampuan Erkek 2In1",
+    name: "Erkek Şampuan CrazyJhon 2In1",
     image: "images/CJ_Man.jpg",
     desc: "Erkek Şampuanı",
     price: 150,
@@ -41,13 +41,59 @@ const products = [
   },
 
   {
-    name: "CrazyJhon Şampuan Meyve Karışımı 2In1",
+    name: "Meyve Aromalı Şampuan CrazyJhon 2In1",
     image: "images/CJ_Meyve.jpg",
     desc: "Meyve Kokulu Şampuan",
     price: 150,
     category: "sampuan",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
-  }
+  },
+  
+  {
+    name: "Arındırıcı Soyulabilir Siyah Maske - JEUNESSE ",
+    image: "images/JEUN_Armask.png",
+    desc: " Ciltteki kir ve yağı temizler. Ölü cilt Hücrelerinin uzaklaştırılmasına yardımcı olur",
+    price: 0,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
+  
+  {
+    name: "Arındırıcı Soyulabilir Gümüş Maske",
+    image: "images/JEUN_Argumus.png",
+    desc: "Cilt tonunu eşitlemeye ve aydınlatmaya yardımcı olur. Ölü cilt hücrelerinin giderilmesine de katkıda bulunur",
+    price: 0,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
+  
+  {
+    name: "Kırışıklık Karşıtı Soyulabilir Altın Maske",
+    image: "images/JEUN_AltnMaske.png",
+    desc: "Cildinize esneklik, yumuşaklık ve sıkılık kazandırır.",
+    price: 00,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
+  
+  {
+    name: "Simli Soyulabilir Kolajen Maskesi",
+    image: "images/JEUN_Simlikolajen.png",
+    desc: "Cildinize esneklik, yumuşaklık ve sıkılık kazandırır",
+    price: 00,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
+  
+  {
+    name: "Derinlemesine Peeling Etkili Kahve Peelingi ",
+    image: "images/JEUN_Kahve.png",
+    desc: "Kahve özlü peeling, içeriğindeki kaolin ve öğütülmüş kahve çekirdeklerinden elde edilen doğal peeling bileşenleri sayesinde gözenekleri temizler ve arındırır. İçerdiği kafein cildi canlandırır ve pürüzsüz bir görünüm kazandırmaya yardımcı olur.",
+    price: 00,
+    category: "maske",
+    link: "https://www.instagram.com/canankozmetik.dorsy/"
+  },
+  
 
 ];
 
