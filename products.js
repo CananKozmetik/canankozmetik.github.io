@@ -115,7 +115,7 @@ const products = [
     price: 150,
     category: "maske",
     link: "https://www.instagram.com/canankozmetik.dorsy/"
-  }
+  },
   
   {
   name: "All Life Böğürtlen Kremi",
