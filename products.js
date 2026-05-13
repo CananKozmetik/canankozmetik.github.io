@@ -155,24 +155,6 @@ const products = [
 },
 
 {
-  name: "Aktif Karbon Sabunu - Dalbeyoğlu",
-  image: "images/dalbeyoglu_aktif_karbon.jpg",
-  desc: "Cildi arındırmaya yardımcı sabun.",
-  price: 115,
-  category: "sabun",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "Kükürtlü Sabun - Dalbeyoğlu",
-  image: "images/dalbeyoglu_kukurtlu.jpg",
-  desc: "Temizleyici bakım sabunu.",
-  price: 115,
-  category: "sabun",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
   name: "Ayak Bakım Kremi - Dalbeyoğlu",
   image: "images/dalbeyoglu_ayak_bakim.jpg",
   desc: "Ayak bakımına yardımcı krem.",
@@ -304,6 +286,24 @@ const products = [
   desc: "Gün boyu etkili kadın parfümü.",
   price: 450,
   category: "parfum",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Aktif Karbon Sabunu",
+  image: "images/dalbeyoglu_aktif_karbon.jpg",
+  desc: "Cildi arındırmaya yardımcı sabun.",
+  price: 115,
+  category: "sabun",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Kükürtlü Sabun",
+  image: "images/dalbeyoglu_kukurtlu.jpg",
+  desc: "Temizleyici bakım sabunu.",
+  price: 115,
+  category: "sabun",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
 },
 
