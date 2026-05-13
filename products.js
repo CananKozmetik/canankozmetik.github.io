@@ -308,45 +308,9 @@ const products = [
 },
 
 {
-  name: "JEUNESSE Detox Kil Maskesi",
-  image: "images/jeunesse_detox_kil.jpg",
-  desc: "Cildi temizlemeye yardımcı bakım maskesi.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "JEUNESSE Pembe Kar Peeling",
-  image: "images/jeunesse_pembe_kar.jpg",
-  desc: "Cildi yenileyen peeling jeli.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "JEUNESSE 3 in 1 Maske",
-  image: "images/jeunesse_3in1.jpg",
-  desc: "Temizleyici ve peeling etkili bakım maskesi.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "JEUNESSE Bal Maskesi",
-  image: "images/jeunesse_bal_maskesi.jpg",
-  desc: "Cilde parlak görünüm kazandıran bakım maskesi.",
-  price: 150,
-  category: "maske",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "Dalbeyoğlu Lavanta Sabunu",
-  image: "images/dalbeyoglu_lavanta.jpg",
-  desc: "Lavanta özlü doğal bakım sabunu.",
+  name: "Dalbeyoğlu Eşek Sütü Sabunu",
+  image: "images/dalbeyoglu_esek.jpg",
+  desc: "Eşek sütü içerikli bakım sabunu.",
   price: 115,
   category: "sabun",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
@@ -371,9 +335,9 @@ const products = [
 },
 
 {
-  name: "Dalbeyoğlu Gül Sabunu",
-  image: "images/dalbeyoglu_gul.jpg",
-  desc: "Gül özlü hoş kokulu bakım sabunu.",
+  name: "Dalbeyoğlu Kantaron Sabunu",
+  image: "images/dalbeyoglu_kantaron.jpg",
+  desc: "Kantaron özlü bakım sabunu.",
   price: 115,
   category: "sabun",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
@@ -407,8 +371,17 @@ const products = [
 },
 
 {
-  name: "Dalbeyoğlu Ardıç Katranı Sabunu",
-  image: "images/dalbeyoglu_ardic.jpg",
+  name: "Dalbeyoğlu Defne Sabunu",
+  image: "images/dalbeyoglu_defne.jpg",
+  desc: "Doğal içerikli bakım sabunu.",
+  price: 115,
+  category: "sabun",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Bıttım Sabunu",
+  image: "images/dalbeyoglu_bittim.jpg",
   desc: "Doğal içerikli bakım sabunu.",
   price: 115,
   category: "sabun",
@@ -435,7 +408,7 @@ const products = [
 
 {
   name: "Dalbeyoğlu Kantaron Kremi",
-  image: "images/dalbeyoglu_kantaron.jpg",
+  image: "images/dalbeyoglu_kantaron_krem.jpg",
   desc: "Kantaron özlü bakım kremi.",
   price: 190,
   category: "kremler",
