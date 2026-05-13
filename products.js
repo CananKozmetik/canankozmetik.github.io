@@ -218,47 +218,11 @@ const products = [
 },
 
 {
-  name: "Bambu Çubuklu Oda Kokusu",
-  image: "images/bambu_oda_kokusu.jpg",
-  desc: "Kalıcı ortam kokusu.",
-  price: 190,
-  category: "oda-kokusu",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
   name: "Araç İçi Asma Koku",
   image: "images/arac_ici_koku.jpg",
   desc: "Araç içi ferahlatıcı koku.",
   price: 90,
   category: "arac-kokusu",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "Dalbeyoğlu Esansiyel Yağ",
-  image: "images/dalbeyoglu_esansiyel.jpg",
-  desc: "Doğal aromatik esansiyel yağ.",
-  price: 90,
-  category: "esansiyel",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "LUZY ONE Erkek Parfüm Victory",
-  image: "images/luzy_victory.jpg",
-  desc: "Kalıcı ve ferah erkek parfümü.",
-  price: 450,
-  category: "parfum",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "LUZY ONE Erkek Parfüm Black",
-  image: "images/luzy_black.jpg",
-  desc: "Yoğun aromalı erkek parfümü.",
-  price: 450,
-  category: "parfum",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
 },
 
@@ -272,18 +236,9 @@ const products = [
 },
 
 {
-  name: "LUZY ONE Kadın Parfüm Diamond",
+  name: "LUZY ONE Kadın Parfüm Victoria",
   image: "images/luzy_diamond.jpg",
   desc: "Zarif ve kalıcı kadın parfümü.",
-  price: 450,
-  category: "parfum",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "LUZY ONE Kadın Parfüm Secret",
-  image: "images/luzy_secret.jpg",
-  desc: "Gün boyu etkili kadın parfümü.",
   price: 450,
   category: "parfum",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
