@@ -173,6 +173,78 @@ const products = [
 },
 
 {
+  name: "Dalbeyoğlu Leke Önleyici Gece Kremi",
+  image: "images/dalbeyoglu_leke_gece.jpg",
+  desc: "Leke Önleyici Gece Kremi.",
+  price: 190,
+  category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Akne Önleyici Krem",
+  image: "images/dalbeyoglu_akne.jpg",
+  desc: "Akne Önleyici Krem.",
+  price: 190,
+  category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Göğüs Bakım Kremi",
+  image: "images/dalbeyoglu_gogus.jpg",
+  desc: "Göğüs Bakım Kremi.",
+  price: 190,
+  category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Keçi Sütlü Krem",
+  image: "images/dalbeyoglu_keci.jpg",
+  desc: "Keçi Sütlü Krem.",
+  price: 190,
+  category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Eşek Sütlü Krem",
+  image: "images/dalbeyoglu_esek_sut.jpg",
+  desc: "Eşek Sütlü Krem.",
+  price: 190,
+  category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Salyangoz Kremi",
+  image: "images/dalbeyoglu_salyangoz.jpg",
+  desc: "Salyangoz kremi.",
+  price: 190,
+  category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Vücut Çatlak Kremi",
+  image: "images/dalbeyoglu_catlak.jpg",
+  desc: "Yoğun nemlendirme sağlayan krem.",
+  price: 190,
+  category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Dalbeyoğlu Avakado ve Nar Çekirdeği Peeling",
+  image: "images/dalbeyoglu_avakado_nar.jpg",
+  desc: "Yoğun nemlendirme sağlayan krem.",
+  price: 190,
+  category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
   name: "LUZY ONE Erkek Parfüm Efendi",
   image: "images/luzy_efendi.jpg",
   desc: "Kalıcı baharatlı erkek parfümü.",
