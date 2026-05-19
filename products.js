@@ -164,15 +164,6 @@ const products = [
 },
 
 {
-  name: "Dalbeyoğlu El ve Vücut Kremi",
-  image: "images/dalbeyoglu_el_vucut.jpg",
-  desc: "Yoğun nemlendirme sağlayan krem.",
-  price: 190,
-  category: "kremler",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
   name: "Dalbeyoğlu Leke Önleyici Gece Kremi",
   image: "images/dalbeyoglu_leke_gece.jpg",
   desc: "Leke Önleyici Gece Kremi.",
