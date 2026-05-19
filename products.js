@@ -281,33 +281,6 @@ const products = [
 },
 
 {
-  name: "Araç İçi Asma Koku",
-  image: "images/arac_ici_koku.jpg",
-  desc: "Araç içi ferahlatıcı koku.",
-  price: 90,
-  category: "arac-kokusu",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "LUZY ONE Kadın Parfüm Rose",
-  image: "images/luzy_rose.jpg",
-  desc: "Çiçeksi kadın parfümü.",
-  price: 450,
-  category: "parfum",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
-  name: "LUZY ONE Kadın Parfüm Victoria",
-  image: "images/luzy_diamond.jpg",
-  desc: "Zarif ve kalıcı kadın parfümü.",
-  price: 450,
-  category: "parfum",
-  link: "https://www.instagram.com/canankozmetik.dorsy/"
-},
-
-{
   name: "Dalbeyoğlu Aktif Karbon Sabunu",
   image: "images/dalbeyoglu_aktif_karbon.jpg",
   desc: "Cildi arındırmaya yardımcı sabun.",
@@ -430,6 +403,33 @@ const products = [
   desc: "Kantaron özlü bakım kremi.",
   price: 190,
   category: "kremler",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "Araç İçi Asma Koku",
+  image: "images/arac_ici_koku.jpg",
+  desc: "Araç içi ferahlatıcı koku.",
+  price: 90,
+  category: "arac-kokusu",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "LUZY ONE Kadın Parfüm Rose",
+  image: "images/luzy_rose.jpg",
+  desc: "Çiçeksi kadın parfümü.",
+  price: 450,
+  category: "parfum",
+  link: "https://www.instagram.com/canankozmetik.dorsy/"
+},
+
+{
+  name: "LUZY ONE Kadın Parfüm Victoria",
+  image: "images/luzy_diamond.jpg",
+  desc: "Zarif ve kalıcı kadın parfümü.",
+  price: 450,
+  category: "parfum",
   link: "https://www.instagram.com/canankozmetik.dorsy/"
 },
 
